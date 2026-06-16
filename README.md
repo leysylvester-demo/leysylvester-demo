@@ -1,18 +1,20 @@
 # Hi, I'm Ley Sylvester
 
-AI enablement and adoption professional with a background spanning enterprise databases, AI-powered solutions, workflow automation, organizational learning, and technical education.
+AI enablement and adoption professional with experience building AI-powered solutions, enterprise data systems, workflow automations, and learning initiatives that help organizations improve productivity and adoption.
 
 I enjoy building practical AI applications that help people learn, work more efficiently, and make better decisions. My experience includes AI enablement, Oracle Database and Oracle AI Database technologies, retrieval-augmented generation (RAG), vector search, Model Context Protocol (MCP), and enterprise data solutions.
 
 ## What I'm Working On
 
+### Career Intelligence System
+
+An AI-powered job search and career strategy platform built to provide evidence-based job analysis, application support, and long-term career insights through automated job triage and market trend analysis.
+
 ### TaleyLearn
 
 An AI-powered learning platform designed to provide personalized SQL learning experiences through generative AI, guided practice, and adaptive learning workflows.
 
-### Career Intelligence System
-
-An AI-assisted career platform that combines candidate profiling, job discovery, application support, and interview preparation into a unified workflow.
+## Selected AI Project
 
 ### Mega-Lab Industries
 
